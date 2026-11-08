@@ -1,0 +1,22 @@
+{
+  "wheel_id": 817,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-119",
+  "project": "fencing-contractors-toowoomba-timeline-12f9b24d08a591d667267506",
+  "parent_t1_ref": "toowoombafencing-159",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba timeline",
+  "intended_url": "http://fencing-contractors-toowoomba-timeline-12f9b24d08a591d667267506.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b2503f4728f09281",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombafencing-159/",
+      "anchor": "Fencing Contractors Toowoomba Signs You Need: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
